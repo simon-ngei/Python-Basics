@@ -1,0 +1,6 @@
+print("Hello Greg, welcometo the python world!")
+print (77)
+print("Joy")
+print(10.50)
+print("my name", "is", 88, "bshjfge")
+print(10 * 5 - 6 / 8 + 7)
